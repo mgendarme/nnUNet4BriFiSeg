@@ -15,4 +15,4 @@ nnUNet_train 2d nnUNetTrainerV2_unet_v3_noDeepSupervision_sn_adam TaskXXX 0
 # example for fold 0
 nnUNet_train 2d nnUNetTrainerV2_fpn_noDeepSupervision_sn TaskXXX 0
 
-# everything else has to be done with regular commands from nnunet
+# everything else has to be done with regular commands from nnunet (e.g. inference, etc.)
