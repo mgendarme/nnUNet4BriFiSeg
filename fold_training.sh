@@ -1,5 +1,0 @@
-nnUNet_train 2d nnUNetTrainerV2_unet_noDeepSupervision_sn_scse Task006_A549 0
-nnUNet_train 2d nnUNetTrainerV2_unet_noDeepSupervision_sn_scse Task006_A549 1
-nnUNet_train 2d nnUNetTrainerV2_unet_noDeepSupervision_sn_scse Task006_A549 2
-nnUNet_train 2d nnUNetTrainerV2_unet_noDeepSupervision_sn_scse Task006_A549 3
-nnUNet_train 2d nnUNetTrainerV2_unet_noDeepSupervision_sn_scse Task006_A549 4
