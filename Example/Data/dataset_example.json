@@ -1,0 +1,43 @@
+{
+  "name": "Example",
+  "description": "Nuclear brightfield segmentation",
+  "reference": "Gendarme Mathieu",
+  "licence": "NA",
+  "release": "1.0 11/09/2021",
+  "tensorImageSize": "4D",
+  "modality": {
+    "0": "R",
+    "1": "G",
+    "2": "B"
+  },
+  "labels": {
+    "0": "background",
+    "1": "nucleus"
+  },
+  "numTraining": 5,
+  "numTest": 0,
+  "training": [
+    {
+      "image": "./images/A549_001.nii.gz",
+      "label": "./labels/A549_001.nii.gz"
+    },
+    {
+      "image": "./images/A549_002.nii.gz",
+      "label": "./labels/A549_002.nii.gz"
+    },
+    {
+      "image": "./images/A549_003.nii.gz",
+      "label": "./labels/A549_003.nii.gz"
+    },
+    {
+      "image": "./images/A549_004.nii.gz",
+      "label": "./labels/A549_004.nii.gz"
+    },
+    {
+      "image": "./images/A549_005.nii.gz",
+      "label": "./labels/A549_005.nii.gz"
+    }
+  ],
+  "test": [
+  ]
+} 
