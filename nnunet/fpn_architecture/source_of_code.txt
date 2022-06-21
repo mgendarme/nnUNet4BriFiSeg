@@ -3,7 +3,7 @@ https://github.com/selimsef/xview2_solution
 
 Their source code was used to get specifically pre-trained SE ResNeXt 101
 
-In fpn_nnunet code was fpn was defined to match the articture designed for the Data Science Bowl 2018
+In fpn_nnunet code, fpn was defined to match the articture designed for the Data Science Bowl 2018
 Source code for FPN in Tensorflow
 https://github.com/selimsef/dsb2018_topcoders
 Obviously the architecture was made compatible with nnUNet
